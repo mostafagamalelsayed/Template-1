@@ -1,5 +1,11 @@
 # Simple HTML & CSS Template 🚀
 
+## 📸 Project Gallery
+
+| Home Page | Hover Effect | Full View |
+|:---:|:---:|:---:|
+| <img src="Screenshot-1.png" width="250"> | <img src="Screenshot-2.png" width="250"> | <img src="Screenshot-3.png" width="250"> |
+
 هذا هو أول مشروع تصميم واجهة مستخدم قمت ببنائه باستخدام تقنيات الويب الأساسية. يركز المشروع على هيكلة العناصر وتنسيقها بشكل جذاب.
 
 ## 📋 مميزات المشروع (Features)
